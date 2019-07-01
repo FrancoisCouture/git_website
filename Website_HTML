@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="Website_CSS.css">
+  <title>Francois' Website</title>
+</head>
+<body>
+  <h1>Heading 1</h1>
+  <h2>Heading 2</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere augue in mi auctor, 
+    vitae bibendum mauris lobortis. Integer est massa, suscipit a metus nec, suscipit rhoncus neque. 
+    Donec tempus elit et dignissim porttitor. Pellentesque at elit vel metus mollis rutrum eu eget 
+    ex. Aenean ut fermentum purus, ac sodales lacus. Duis ultricies ullamcorper eros, id ultrices 
+    lectus blandit ut. Duis a dapibus quam. Mauris at justo euismod, accumsan orci a, blandit mauris. 
+    Mauris rhoncus purus eu elit dapibus blandit. Suspendisse id ligula vel odio posuere consequat. 
+    Nunc facilisis interdum nisi eget aliquam. </p>
+</body>
+</html>
