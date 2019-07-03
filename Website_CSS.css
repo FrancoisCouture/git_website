@@ -2,26 +2,58 @@ body{
   
   Background-image: url("Images/Background_1.jpg");
   Background-repeat: no-repeat;
-  Background-position: right top;
-  Background-attachment: fixed;
+  Background-position: 45% 10%;
+  Background-attachment: scroll;
+  Background-size: cover;
   
 }
+div.Top{
+  width: 100%;
+  min-width: 25em;
+  margin: -0.5em 0em 0em -1em;
+  Background-color: white;
+  padding: 1em 2em 1em 0em;
+
+}
 h1{
-  Background-color: gray;
-  color:  white;
-  text-align: center;
+  width: 40%;
+  text-indent: 10%;
+  min-width: 5em;
+  display: inline-block;
   
-  padding-top: 100px;
-  padding-bottom: 100px;
-  margin: -2em -1em 0em -1em;
+}
+h1.left{
+  color:  black;
+  text-align: left;
+  font-family: Arial;
+  font-size: 1.25em;
+  
+  
+}
+div.Top_seperator{
+  
+  display: inline-block;
+  width: 15%;
+}
+h1.right{
+  
+  color:  black;
+  text-align: right;
+  font-family: Arial;
+  font-size: 1.25em;
+
   
 }
 h2{
-  background-color: #16191b;
+  
+  width: 100%;
+  padding: 5em 0em 5em 0em;
+  
   color: white;
-  text-align: left;
-  padding: 0.5em 0em 0.5em 0em;
-  margin: 0em -1em 0em -0.35em;
+  text-align: Center;
+  font-family: Arial;
+  font-size: 5em;
+  font-size: 4vw;
   
   
   
